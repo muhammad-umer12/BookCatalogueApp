@@ -1,8 +1,8 @@
-# xanpool-full-stack-assignment-
+# xanpool-full-stack-assignment
 
 Please implement a books catalog. 
 The website should contain two views:
-1) The list of available books, on this page you're allowed to view all available books, please skip pagination
+1) The list of available books, on this page you should be able to view all available books, please skip pagination
 2) Book's page, on this page you can see extra books' fields.
 
 Book's fields:
