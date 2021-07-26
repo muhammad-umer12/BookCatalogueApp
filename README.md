@@ -12,7 +12,7 @@ Book's fields:
 
 Stack that we prefer:
 1. Frontend - React, Typescript
-2. Backend - NodeJS, Scala, Java, C#,  you can use either REST API or Graphql
+2. Backend - NodeJS(Typescript), Scala, Java, C#,  you can use either REST API or Graphql
 
 Please be creative and show the best practices that you use in your daily practice. 
 
