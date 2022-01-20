@@ -4,7 +4,7 @@ Front-end
 
 Front-end app bootstrap with command "yarn create next-app --typescript"
 
-Open Frontend folder and install dependencies via command "run npm i"
+On Root folder install dependencies via command "run npm i"
 
 Run command "yarn run dev" to serve frontend app
 
