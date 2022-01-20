@@ -15,7 +15,7 @@ Back-end
 
 Backend app is created with command "nest new project-name"
 
-Open backend folder and install dependencies via command "run npm i"
+Open backendApp folder and install dependencies via command "run npm i"
 
 Mongodb server must be running on your machine to run the backend app
 
